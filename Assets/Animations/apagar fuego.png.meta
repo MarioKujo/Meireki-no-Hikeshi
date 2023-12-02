@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: d5af94627bb26344cb45227aa582f9db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: apagar fuego_0
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5
+        width: 380
+        height: 859
+      alignment: 9
+      pivot: {x: 0.45375735, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8c33493de61f84194a49491ec1226a
+      internalID: 1360397441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 5
+        width: 412
+        height: 859
+      alignment: 9
+      pivot: {x: 0.4182526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81313b148f79daa4197fc5f3e9462054
+      internalID: -254614525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_2
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 5
+        width: 363
+        height: 859
+      alignment: 9
+      pivot: {x: 0.4711813, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88386926a0166994e914ce5b410fb9e0
+      internalID: 910146688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_4
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 5
+        width: 501
+        height: 859
+      alignment: 9
+      pivot: {x: 0.62774014, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76497633900676f41b489be6069fe356
+      internalID: 1207430559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_6
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 5
+        width: 587
+        height: 859
+      alignment: 9
+      pivot: {x: 0.7350084, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985236a91624817438ff7720f174ade5
+      internalID: 1755112772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_7
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 5
+        width: 668
+        height: 859
+      alignment: 9
+      pivot: {x: 0.7639928, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88418ebae3ea2be45824d83a78a71bd7
+      internalID: -1452162920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_8
+      rect:
+        serializedVersion: 2
+        x: 4806
+        y: 5
+        width: 673
+        height: 859
+      alignment: 9
+      pivot: {x: 0.77048534, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56119931b3637a42ab0b65c3377f5f5
+      internalID: 451224998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_9
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 5
+        width: 683
+        height: 859
+      alignment: 9
+      pivot: {x: 0.7727712, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91cc3aca4282ad4db441eac2ac060ff
+      internalID: -999958662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apagar fuego_10
+      rect:
+        serializedVersion: 2
+        x: 6675
+        y: 5
+        width: 404
+        height: 859
+      alignment: 9
+      pivot: {x: 0.62673074, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5774c4b112d184c4a8a72a1c5459281c
+      internalID: 711038103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      apagar fuego_16: 274535774
+      apagar fuego_11: 522697344
+      apagar fuego_0: 1360397441
+      apagar fuego_1: -254614525
+      apagar fuego_24: 1136219842
+      apagar fuego_18: 11748942
+      apagar fuego_26: 64217723
+      apagar fuego_10: 711038103
+      apagar fuego_5: 93010973
+      apagar fuego_2: 910146688
+      apagar fuego_7: -1452162920
+      apagar fuego_22: 1677634385
+      apagar fuego_14: 46763028
+      apagar fuego_12: 1427647157
+      apagar fuego_23: -584686254
+      apagar fuego_8: 451224998
+      apagar fuego_25: 319329449
+      apagar fuego_15: -767721818
+      apagar fuego_13: -659762585
+      apagar fuego_3: 107655678
+      apagar fuego_17: -2081104162
+      apagar fuego_21: 1936186007
+      apagar fuego_19: -1986566891
+      apagar fuego_4: 1207430559
+      apagar fuego_27: 1835861775
+      apagar fuego_6: 1755112772
+      apagar fuego_9: -999958662
+      apagar fuego_20: -1432929648
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
